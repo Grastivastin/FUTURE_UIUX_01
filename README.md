@@ -8,13 +8,8 @@ This design demonstrates UI layout, user flow planning, and clean visual present
 
 ## 📌 Tools Used
 - Canva (for UI design & prototype)
-- Unsplash & Freepik (for mock images & icons)
 - Google Fonts (font style)
 
-## 📁 Project Structure
-Refer to the Screenshots folder for static screens of the design.
-Check the prototype link(s) in **Prototype_Links.txt** for interactive navigation.
-
 ## 🔗 Prototype (View Here)
-(Insert your Canva or Figma prototype link here)
+https://www.canva.com/design/DAG_oiRWbsA/rdzHzM2d5W9gAcLls94Cug/edit?utm_content=DAG_oiRWbsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
